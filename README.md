@@ -22,9 +22,8 @@
 
 ###
 
-<h2 align="center">Jefherson Luiz<br>Full-Stack Developer | AI Automation & Edge Computing Enthusiast</h2>
+<h2 align="center">Jefherson Luiz<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-Stack+Developer+%7C+AI+Automation)](https://git.io/typing-svg)</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-Stack+Developer+%7C+AI+Automation)](https://git.io/typing-svg)
 
 ###
 
