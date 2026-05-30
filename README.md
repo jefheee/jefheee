@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">Jefherson Luiz<br>[![Typing SVG]</h2>
+<h2 align="center">Jefherson Luiz<br></h2>
 
 
 ###
