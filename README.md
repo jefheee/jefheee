@@ -9,7 +9,7 @@
 </div>
 
 ###
-
+<h2 align="center">Jefherson Luiz<br></h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/jefhersonluiz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -19,8 +19,6 @@
 </div>
 
 ###
-
-<h2 align="center">Jefherson Luiz<br></h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Full-Stack+Developer+%7C+AI+Automation)](https://git.io/typing-svg)
 
