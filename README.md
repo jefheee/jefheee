@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Jefherson Luiz<br>Full-Stack Developer | AI Automation</h2>
+<h2 align="center">Jefherson Luiz<br>Desenvolvedor de Software</h2>
 
 ###
 
