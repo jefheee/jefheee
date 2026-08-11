@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🔭 <b>Atualmente trabalhando em:</b> Projetos integradores acadêmicos e soluções focadas em desenvolvimento full-stack com TypeScript, React e Next.js.<br><br>🌱 <b>Estudando e evoluindo em:</b> Arquitetura e Engenharia de Software, modelagem de sistemas (UML), bancos de dados estruturados (SQL) e lógica avançada com Java.<br><br>👯 <b>Interesse em colaborar em:</b> Automações inteligentes, integrações com IA e desenvolvimento de aplicações ponta a ponta que resolvem problemas de negócio reais.<br><br>🎓 <b>Educação:</b> Graduando no 3º semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNISUL.</p>
+<p align="left">🔭 <b>Atualmente trabalhando em:</b> Projetos integradores acadêmicos e soluções focadas em desenvolvimento full-stack com TypeScript, React e Next.js.<br><br>🌱 <b>Estudando e evoluindo em:</b> Arquitetura e Engenharia de Software, modelagem de sistemas (UML), bancos de dados estruturados (SQL) e lógica avançada com Java.<br><br>👯 <b>Interesse em colaborar em:</b> Automações inteligentes, integrações com IA e desenvolvimento de aplicações ponta a ponta que resolvem problemas de negócio reais.<br><br>🎓 <b>Educação:</b> Graduando no 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNISUL.</p>
 
 ###
 
