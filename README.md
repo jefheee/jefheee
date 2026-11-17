@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Idiomas e Ferramentas</h3>
+<h3 align="left"> Idiomas e Ferramentas</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">🔥 Meus Status :</h3>
+<h3 align="left"> Meus Status :</h3>
 
 ###
 
