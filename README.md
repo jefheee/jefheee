@@ -1,76 +1,58 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
-</div>
-
-###
-
 <div align="center">
-  <img height="150" src="https://cdn.dribbble.com/userupload/2608299/file/original-00f24643a2c18bc04251f7a2019d4743.gif"  />
+
+# Jefherson Luiz
+
+**Desenvolvedor Full-Stack · Next.js, TypeScript, Supabase & Rust**
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-jefherson--luiz.vercel.app-141414?style=for-the-badge&logo=vercel&logoColor=white)](https://jefherson-luiz.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jefhersonluiz-141414?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefhersonluiz/)
+[![Gmail](https://img.shields.io/badge/E--mail-jefhersonluiz08%40gmail.com-141414?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefhersonluiz08@gmail.com)
+
 </div>
 
-###
+---
 
-<h2 align="center">Jefherson Luiz<br>Desenvolvedor de Software</h2>
+### Sobre
 
-###
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNISUL** (Palhoça, SC), com foco na construção de produtos web e desktop orientados a arquitetura limpa, dados estruturados e automação prática.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jefhersonluiz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:jefhersonluiz08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+- **Web & Full-Stack:** Aplicações escaláveis com Next.js (App Router), TypeScript estrito, Tailwind CSS e Supabase (PostgreSQL, RLS e pgvector).
+- **Desktop & Baixo Nível:** Utilitários nativos em Rust e Tauri v2 integrados às APIs do Windows para diagnóstico e performance.
+- **IA & Automação:** Pipelines com Gemini / Groq, busca vetorial (RAG), servidores MCP e validações determinísticas no backend.
+- **Qualidade & Engenharia:** Modelagem relacional (3FN), cobertura de testes unitários, CI/CD no GitHub Actions e análise estática.
 
-###
+---
 
-<h3 align="left"> Sobre Mim</h3>
-
-###
-
-<p align="left"> <b>Atualmente trabalhando em:</b> Projetos integradores acadêmicos e soluções focadas em desenvolvimento full-stack com TypeScript, React e Next.js.<br><br> <b>Estudando e evoluindo em:</b> Arquitetura e Engenharia de Software, modelagem de sistemas (UML), bancos de dados estruturados (SQL) e lógica avançada com Java.<br><br> <b>Interesse em colaborar em:</b> Automações inteligentes, integrações com IA e desenvolvimento de aplicações ponta a ponta que resolvem problemas de negócio reais.<br><br> <b>Educação:</b> Graduando no 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNISUL.</p>
-
-###
-
-<h3 align="left"> Idiomas e Ferramentas</h3>
-
-###
+### Stack Principal
 
 <div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-141414?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Rust-141414?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Tauri-141414?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-###
+---
 
-<h3 align="left"> Meus Status :</h3>
+### Projetos em Destaque
 
-###
+- [**Kitsune Finance**](https://github.com/jefheee/kitsune-finance) — Gestão patrimonial com Open Finance (Pluggy), motor matemático determinístico e agentes MCP.
+- [**System Optimizer Tool**](https://github.com/jefheee/system-optimizer-tool) — Suíte desktop nativa em Rust + Tauri v2 + Next.js para diagnóstico e otimização reversível no Windows.
+- [**Drafteiros**](https://github.com/jefheee/Drafteiros) — Plataforma PWA para campeonatos com leitura de súmulas por visão computacional (Gemini Vision) e Pix split.
+- [**Portal EEB Benonívio**](https://github.com/jefheee/escola-benonivio) — Portal escolar em produção com banco PostgreSQL normalizado em 3FN e painel administrativo.
+- [**IRPF Copilot**](https://github.com/jefheee/irpf-copilot) — Assistente tributário com RAG vetorial (`pgvector`), validação determinística e pipeline LGPD local.
+
+---
+
+### Atividade no GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jefheee&locale=pt-br&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jefheee&locale=pt-br&mode=daily&theme=highcontrast&hide_border=true&border_radius=8&background=0B0B0B&ring=F4F3EF&fire=F4F3EF&currStreakLabel=F4F3EF&sideLabels=F4F3EF&currStreakNum=F4F3EF&sideNums=F4F3EF&dates=9C9A93" height="150" alt="GitHub Streak" />
 </div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
-</div>
-
-###
