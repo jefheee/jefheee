@@ -2,7 +2,7 @@
 
 # Jefherson Luiz
 
-**Desenvolvedor Full-Stack · Next.js, TypeScript, Supabase & Rust**
+**Desenvolvedor Full-Stack**
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-jefherson--luiz.vercel.app-141414?style=for-the-badge&logo=vercel&logoColor=white)](https://jefherson-luiz.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jefhersonluiz-141414?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefhersonluiz/)
